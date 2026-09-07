@@ -60,6 +60,7 @@ More solutions coming soon.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sriram230107/Leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sriram230107/Leetcode_sol/tree/master/0035-search-insert-position) |
@@ -79,6 +80,7 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sriram230107/Leetcode_sol/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sriram230107/Leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/sriram230107/Leetcode_sol/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sriram230107/Leetcode_sol/tree/master/0125-valid-palindrome) |
@@ -198,4 +200,8 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sriram230107/Leetcode_sol/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sriram230107/Leetcode_sol/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
