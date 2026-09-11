@@ -69,6 +69,7 @@ More solutions coming soon.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sriram230107/Leetcode_sol/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sriram230107/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sriram230107/Leetcode_sol/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sriram230107/Leetcode_sol/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
@@ -101,6 +102,7 @@ More solutions coming soon.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sriram230107/Leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sriram230107/Leetcode_sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sriram230107/Leetcode_sol/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sriram230107/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sriram230107/Leetcode_sol/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sriram230107/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sriram230107/Leetcode_sol/tree/master/0160-intersection-of-two-linked-lists) |
@@ -146,6 +148,7 @@ More solutions coming soon.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sriram230107/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sriram230107/Leetcode_sol/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
