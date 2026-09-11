@@ -32,6 +32,7 @@ More solutions coming soon.
 | [0013-roman-to-integer](https://github.com/sriram230107/Leetcode_sol/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sriram230107/Leetcode_sol/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sriram230107/Leetcode_sol/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sriram230107/Leetcode_sol/tree/master/0231-power-of-two) |
@@ -52,6 +53,7 @@ More solutions coming soon.
 | [0020-valid-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sriram230107/Leetcode_sol/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sriram230107/Leetcode_sol/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sriram230107/Leetcode_sol/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sriram230107/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sriram230107/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
@@ -120,6 +122,7 @@ More solutions coming soon.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sriram230107/Leetcode_sol/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sriram230107/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
@@ -147,6 +150,7 @@ More solutions coming soon.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sriram230107/Leetcode_sol/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/0258-add-digits) |
 ## Recursion
 |  |
