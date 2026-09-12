@@ -33,6 +33,7 @@ More solutions coming soon.
 | [0048-rotate-image](https://github.com/sriram230107/Leetcode_sol/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sriram230107/Leetcode_sol/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sriram230107/Leetcode_sol/tree/master/0231-power-of-two) |
@@ -57,6 +58,7 @@ More solutions coming soon.
 | [0067-add-binary](https://github.com/sriram230107/Leetcode_sol/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sriram230107/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sriram230107/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0171-excel-sheet-column-number) |
 ## Stack
 |  |
 | ------- |
