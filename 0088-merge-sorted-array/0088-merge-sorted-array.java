@@ -1,33 +1,24 @@
 class Solution {
-    public void merge(int[] n1, int m, int[] n2, int n) {
+    public void merge(int[] n1,int m,int[] n2,int n) {
 
-        for(int i=0;i<n;i++)
-        {
-            n1[m++]=n2[i];
-        }
+        int i=m-1;
+        int j=n-1;
+        int k=m+n-1;
 
-        
-        int a=0;
-        while(a<n1.length-1)
+        while(j>=0)
         {
-            int i=0;
-            while(i<n1.length-1)
+            if(i>=0 && n1[i]>n2[j])
             {
-                if( n1[i]>n1[i+1] )
-                {
-                    int temp=n1[i+1];
-                    n1[i+1]=n1[i];
-                    n1[i]=temp;
-                    i++;
-                }
-                else{
-                    i++;
-                }
+                n1[k]=n1[i];
+                i--;
             }
-            a++;
+            else
+            {
+                n1[k]=n2[j];
+                j--;
+            }
+
+            k--;
         }
-
-
-        
     }
 }
