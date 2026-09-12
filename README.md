@@ -77,6 +77,7 @@ More solutions coming soon.
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriram230107/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/sriram230107/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
@@ -214,6 +215,7 @@ More solutions coming soon.
 | [0005-longest-palindromic-substring](https://github.com/sriram230107/Leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sriram230107/Leetcode_sol/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriram230107/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/sriram230107/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
 | ------- |
