@@ -53,6 +53,7 @@ More solutions coming soon.
 | [0013-roman-to-integer](https://github.com/sriram230107/Leetcode_sol/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sriram230107/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sriram230107/Leetcode_sol/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sriram230107/Leetcode_sol/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sriram230107/Leetcode_sol/tree/master/0067-add-binary) |
@@ -219,6 +220,7 @@ More solutions coming soon.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sriram230107/Leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sriram230107/Leetcode_sol/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriram230107/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sriram230107/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 ## Manacher
@@ -233,4 +235,12 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sriram230107/Leetcode_sol/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
