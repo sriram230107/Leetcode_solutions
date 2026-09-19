@@ -87,6 +87,7 @@ More solutions coming soon.
 | [0162-find-peak-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/sriram230107/Leetcode_sol/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sriram230107/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0268-missing-number) |
@@ -227,6 +228,7 @@ More solutions coming soon.
 | [0022-generate-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriram230107/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sriram230107/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/sriram230107/Leetcode_sol/tree/master/0198-house-robber) |
 ## Manacher
 |  |
 | ------- |
