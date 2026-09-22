@@ -93,6 +93,7 @@ More solutions coming soon.
 | [0268-missing-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriram230107/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
+| [1480-running-sum-of-1d-array](https://github.com/sriram230107/Leetcode_sol/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,4 +251,8 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sriram230107/Leetcode_sol/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
