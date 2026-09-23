@@ -40,6 +40,7 @@ More solutions coming soon.
 | [0258-add-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sriram230107/Leetcode_sol/tree/master/0326-power-of-three) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3870-count-commas-in-range](https://github.com/sriram230107/Leetcode_sol/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
@@ -94,6 +95,7 @@ More solutions coming soon.
 | [0268-missing-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriram230107/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sriram230107/Leetcode_sol/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sriram230107/Leetcode_sol/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sriram230107/Leetcode_sol/tree/master/1480-running-sum-of-1d-array) |
