@@ -100,6 +100,7 @@ More solutions coming soon.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sriram230107/Leetcode_sol/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sriram230107/Leetcode_sol/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sriram230107/Leetcode_sol/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/sriram230107/Leetcode_sol/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/sriram230107/Leetcode_sol/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -182,6 +183,7 @@ More solutions coming soon.
 | ------- |
 | [0036-valid-sudoku](https://github.com/sriram230107/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sriram230107/Leetcode_sol/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/sriram230107/Leetcode_sol/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
