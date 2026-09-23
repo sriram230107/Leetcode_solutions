@@ -65,6 +65,7 @@ More solutions coming soon.
 | [0242-valid-anagram](https://github.com/sriram230107/Leetcode_sol/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sriram230107/Leetcode_sol/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/sriram230107/Leetcode_sol/tree/master/0709-to-lower-case) |
+| [1768-merge-strings-alternately](https://github.com/sriram230107/Leetcode_sol/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +123,7 @@ More solutions coming soon.
 | [0283-move-zeroes](https://github.com/sriram230107/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sriram230107/Leetcode_sol/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/sriram230107/Leetcode_sol/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
