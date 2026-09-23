@@ -95,6 +95,7 @@ More solutions coming soon.
 | [0268-missing-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriram230107/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
+| [0566-reshape-the-matrix](https://github.com/sriram230107/Leetcode_sol/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sriram230107/Leetcode_sol/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sriram230107/Leetcode_sol/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -185,6 +186,7 @@ More solutions coming soon.
 | ------- |
 | [0036-valid-sudoku](https://github.com/sriram230107/Leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sriram230107/Leetcode_sol/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/sriram230107/Leetcode_sol/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sriram230107/Leetcode_sol/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sriram230107/Leetcode_sol/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sriram230107/Leetcode_sol/tree/master/1672-richest-customer-wealth) |
@@ -193,6 +195,7 @@ More solutions coming soon.
 | ------- |
 | [0067-add-binary](https://github.com/sriram230107/Leetcode_sol/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/sriram230107/Leetcode_sol/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sriram230107/Leetcode_sol/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sriram230107/Leetcode_sol/tree/master/1929-concatenation-of-array) |
 ## Recursion
