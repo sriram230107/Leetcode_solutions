@@ -97,6 +97,7 @@ More solutions coming soon.
 | [0198-house-robber](https://github.com/sriram230107/Leetcode_sol/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sriram230107/Leetcode_sol/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sriram230107/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriram230107/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
@@ -287,6 +288,7 @@ More solutions coming soon.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sriram230107/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/sriram230107/Leetcode_sol/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
