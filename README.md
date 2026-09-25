@@ -86,6 +86,7 @@ More solutions coming soon.
 | [0041-first-missing-positive](https://github.com/sriram230107/Leetcode_sol/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sriram230107/Leetcode_sol/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sriram230107/Leetcode_sol/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sriram230107/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriram230107/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -188,6 +189,7 @@ More solutions coming soon.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sriram230107/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sriram230107/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -266,6 +268,7 @@ More solutions coming soon.
 | [0005-longest-palindromic-substring](https://github.com/sriram230107/Leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sriram230107/Leetcode_sol/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/sriram230107/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriram230107/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sriram230107/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sriram230107/Leetcode_sol/tree/master/0198-house-robber) |
